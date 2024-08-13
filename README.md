@@ -11,6 +11,7 @@ The dataset used for this project contains chest X-ray images, divided into two 
 - COVID-19: Chest X-ray images of COVID-19 positive cases.
 - Normal: Chest X-ray images of healthy cases.
 - The dataset is structured into training and test directories, each containing subdirectories for COVID-19 and normal images.
+- Data Source: https://github.com/education454/datasets.git
 
 ### Model Architecture
 The model is a Convolutional Neural Network (CNN) built using TensorFlow and Keras. The architecture consists of:
